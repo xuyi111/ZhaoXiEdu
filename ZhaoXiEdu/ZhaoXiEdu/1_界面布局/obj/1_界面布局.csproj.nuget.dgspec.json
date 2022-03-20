@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu.csproj": {}
+    "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\1_界面布局\\1_界面布局.csproj": {}
   },
   "projects": {
-    "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu.csproj": {
+    "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\1_界面布局\\1_界面布局.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu.csproj",
-        "projectName": "ZhaoXiEdu",
-        "projectPath": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu.csproj",
+        "projectUniqueName": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\1_界面布局\\1_界面布局.csproj",
+        "projectName": "1_界面布局",
+        "projectPath": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\1_界面布局\\1_界面布局.csproj",
         "packagesPath": "C:\\Users\\78562\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\ZhaoXiEdu\\obj\\",
+        "outputPath": "D:\\Git\\ZhaoXi\\ZhaoXiEdu\\ZhaoXiEdu\\1_界面布局\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
