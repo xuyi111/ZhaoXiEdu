@@ -19,3 +19,14 @@ D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\1_
 D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\ref\1_界面布局.dll
 D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\1_界面布局.pdb
 D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\1_界面布局.genruntimeconfig.cache
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\DockPanel.g.cs
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\UniformGrid.g.cs
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\WrapPanel.g.cs
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\DockPanel.baml
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\UniformGrid.baml
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\WrapPanel.baml
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\Canvas.g.cs
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\IntCanvas.g.cs
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\Canvas.baml
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\IntCanvas.baml
+D:\Git\ZhaoXi\ZhaoXiEdu\ZhaoXiEdu\1_界面布局\obj\x64\Debug\net5.0-windows\1_界面布局.csproj.AssemblyReference.cache
